@@ -6,7 +6,7 @@
 
 <p align="center">
   <marquee width="60%" scrollamount="8" behavior="alternate" style="color:#00FFD1; font-family:Share Tech Mono; font-size:18px;">
-    ⚡ HỆ THỐNG CYBERPUNK • OSIRIX • GLITCH MODE KÍCH HOẠT ⚡
+    ⚡ CYBERPUNK SYSTEM • OSIRIX • GLITCH MODE ACTIVATED ⚡
   </marquee>
 </p>
 
@@ -28,7 +28,7 @@ Mọi lỗi *glitch* chỉ là cánh cửa, mọi tường lửa chỉ là cái 
 
 ---
 
-## ⚡ Thống Kê (Chế Độ Cyberpunk)
+## ⚡ Stats (Cyberpunk Mode)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fbtuan2&show_icons=true&theme=radical&title_color=ff0050&icon_color=00ffd1&text_color=ffffff&bg_color=0d1117" height="170" />
@@ -37,20 +37,22 @@ Mọi lỗi *glitch* chỉ là cánh cửa, mọi tường lửa chỉ là cái 
 
 ---
 
-## 🐍 RẮN TRONG LƯỚI  
+## 🐍 Snake in the Grid  
 <p align="center">
   <img src="https://github.com/fbtuan2/fbtuan2/blob/output/snake.svg" alt="Snake animation" />
 </p>
 
 ---
 
-## 🧩 Huy Hiệu  
+## 🧩 Badges (LED RUNNING)  
 <p align="center">
-  <img src="https://img.shields.io/badge/HACKER-OSIRIX-ff0050?style=for-the-badge&logo=matrix&logoColor=00ffd1" />
-  <img src="https://img.shields.io/badge/MÃ-SỐ-CYBERPUNK-00ffd1?style=for-the-badge&logo=neovim&logoColor=ff0050" />
-  <img src="https://img.shields.io/badge/THỰC%20TẠI-GLITCH-9d00ff?style=for-the-badge&logo=protonmail&logoColor=00ffd1" />
+  <marquee scrollamount="6" behavior="alternate" width="85%">
+    <img src="https://img.shields.io/badge/HACKER-OSIRIX-ff0050?style=for-the-badge&logo=matrix&logoColor=00ffd1" />
+    <img src="https://img.shields.io/badge/CYBERPUNK-CODE-00ffd1?style=for-the-badge&logo=github&logoColor=ff0050" />
+    <img src="https://img.shields.io/badge/GLITCHED-REALITY-9d00ff?style=for-the-badge&logo=protonmail&logoColor=00ffd1" />
+  </marquee>
 </p>
 
 ---
 
-🔥 *"Tương lai đã bị hack. Chúng ta chỉ đang viết nốt dòng lệnh cuối cùng."*
+🔥 *"The future is already hacked. We’re just writing the last line of code."*
