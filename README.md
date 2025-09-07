@@ -1,12 +1,14 @@
 <!-- Cyberpunk Hacker Profile README -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=30&duration=4000&color=00FFD1&center=true&vCenter=true&lines=OSIRIX;XUYÊN+THỰC+TẠI%2C+MỘT+DÒNG+LỆNH+MỖI+LẦN" alt="Typing SVG" />
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=30&duration=4000&color=00FFD1&center=true&vCenter=true&lines=OSIRIX;GLITCHING+REALITY...;ONE+LINE+AT+A+TIME" alt="Typing SVG" />
+</h1>
 </h1>
 
 <p align="center">
   <marquee width="60%" scrollamount="8" behavior="alternate" style="color:#00FFD1; font-family:Share Tech Mono; font-size:18px;">
-    ⚡ CYBERPUNK SYSTEM • OSIRIX • GLITCH MODE ACTIVATED ⚡
+    ⚡ OSIRIX ⚡
   </marquee>
 </p>
 
