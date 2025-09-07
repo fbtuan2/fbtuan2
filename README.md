@@ -24,6 +24,7 @@
 ## 🐍 Snake  
 <p align="center">
   <img src="https://github.com/fbtuan2/fbtuan2/blob/output/snake.svg" alt="Snake animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=20&duration=4000&color=9d00ff&center=true&vCenter=true&lines=NEON+IS+THE+NEW+BLACK;CYBER+CODING+IN+PROGRESS" />
 </p>
 
 ---
@@ -33,8 +34,13 @@
   <img src="https://img.shields.io/badge/HACKER-OSIRIX-ff0050?style=for-the-badge&logo=matrix&logoColor=00ffd1" />
   <img src="https://img.shields.io/badge/CYBERPUNK-CODE-00ffd1?style=for-the-badge&logo=github&logoColor=ff0050" />
   <img src="https://img.shields.io/badge/REALITY-GLITCHED-9d00ff?style=for-the-badge&logo=protonmail&logoColor=00ffd1" />
+  <img src="https://img.shields.io/badge/FUTURE-HACKED-ff00ff?style=for-the-badge&logo=linux&logoColor=00ffd1" />
 </p>
 
 ---
 
 🔥 *"The future is already hacked. We’re just writing the last line of code."*
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" alt="LED Code Animation" />
+</p>
