@@ -1,50 +1,56 @@
-# 👁️‍🗨️ OSIRIX  
-> *Cyberpunk Developer • Digital Shadow*  
+<!-- Cyberpunk Hacker Profile README -->
 
-![GitHub followers](https://img.shields.io/github/followers/Osirix?style=for-the-badge&color=00ff00&label=Followers&logo=github)
-![GitHub User's stars](https://img.shields.io/github/stars/Osirix?style=for-the-badge&color=ff00ff&label=Stars&logo=github)
-![Views](https://komarev.com/ghpvc/?username=Osirix&style=for-the-badge&color=00ffff&label=Profile+Views)
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=30&duration=4000&color=00FFD1&center=true&vCenter=true&lines=OSIRIX;XUYÊN+THỰC+TẠI%2C+MỘT+DÒNG+LỆNH+MỖI+LẦN" alt="Typing SVG" />
+</h1>
 
----
-
-### 🔧 **TECH STACK**  
-![Python](https://img.shields.io/badge/Python-000?style=flat&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/C++-000?style=flat&logo=c%2B%2B&logoColor=00599C)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat&logo=javascript&logoColor=F7DF1E)
-![Reverse Engineering](https://img.shields.io/badge/Reverse_Engineering-000?style=flat&logo=radar&logoColor=white)
-![Network Security](https://img.shields.io/badge/Network_Security-000?style=flat&logo=shield&logoColor=blue)
-![Cryptography](https://img.shields.io/badge/Cryptography-000?style=flat&logo=key&logoColor=gold)
-![Blockchain](https://img.shields.io/badge/Blockchain-000?style=flat&logo=blockchain&logoColor=green)
-![AI/ML](https://img.shields.io/badge/AI/ML-000?style=flat&logo=ai&logoColor=orange)
-![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-000?style=flat&logo=chip&logoColor=red)
+<p align="center">
+  <marquee width="60%" scrollamount="8" behavior="alternate" style="color:#00FFD1; font-family:Share Tech Mono; font-size:18px;">
+    ⚡ HỆ THỐNG CYBERPUNK • OSIRIX • GLITCH MODE KÍCH HOẠT ⚡
+  </marquee>
+</p>
 
 ---
 
-### 🚀 **PROJECTS**  
-- **[REDACTED]** — Zero-day exploit research (Private) 🔒  
-- **NeuralInterface** — AI-driven cybersecurity assistant 🤖  
-- **GlitchTerminal** — Custom CLI for penetration testing 💻  
-- **CryptoVault** — Blockchain-based security framework 🔐  
-- **ShadowNet** — Encrypted communication protocol 🌐  
+## 🌌 MÔ TẢ DÀI  
+💀 Trong những con hẻm neon của không gian mạng, **Osirix** di chuyển như bóng ma.  
+Mỗi dòng lệnh là một nhát chém, mỗi terminal là một chiến trường.  
+Mọi lỗi *glitch* chỉ là cánh cửa, mọi tường lửa chỉ là cái bóng để lướt qua.  
+Đây không phải lập trình. Đây là **chiến tranh số**.  
 
 ---
 
-### 📊 **GITHUB STATS**  
-![Osirix's GitHub stats](https://github-readme-stats.vercel.app/api?username=Osirix&show_icons=true&theme=radical&bg_color=000000&text_color=00ff00&title_color=ff00ff&icon_color=00ffff)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Osirix&layout=compact&theme=radical&bg_color=000000&text_color=00ff00&title_color=ff00ff)
+## 🕶️ VỀ TÔI  
+- 🌍 Nơi trú ẩn: **The Grid**  
+- 💻 Portfolio: [Xem tại đây](http://myapp.com)  
+- ✉️ Liên hệ: **myemail@gmail.com**  
+- 🚀 Đang chế tạo: **Hệ thống Cybernetic**  
 
 ---
 
-### 📡 **CONTACT**  
-- **Matrix**: @osirix:cyber.dimension 📡  
-- **Signal**: [REDACTED] 🔒  
-- **PGP**: [Download Key](https://...) 🔑  
-- **Email**: osirix@protonmail.com ✉️  
+## ⚡ Thống Kê (Chế Độ Cyberpunk)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fbtuan2&show_icons=true&theme=radical&title_color=ff0050&icon_color=00ffd1&text_color=ffffff&bg_color=0d1117" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fbtuan2&layout=compact&theme=radical&title_color=00ffd1&text_color=ffffff&bg_color=0d1117" height="170" />
+</p>
 
 ---
 
-> *"In the shadows, we build light."* ⚡
+## 🐍 RẮN TRONG LƯỚI  
+<p align="center">
+  <img src="https://github.com/fbtuan2/fbtuan2/blob/output/snake.svg" alt="Snake animation" />
+</p>
 
 ---
 
-🔐 *Identity: CX18* | 🌐 *Style: Cyberpunk* | ⚡ *Powered by Neon*
+## 🧩 Huy Hiệu  
+<p align="center">
+  <img src="https://img.shields.io/badge/HACKER-OSIRIX-ff0050?style=for-the-badge&logo=matrix&logoColor=00ffd1" />
+  <img src="https://img.shields.io/badge/MÃ-SỐ-CYBERPUNK-00ffd1?style=for-the-badge&logo=neovim&logoColor=ff0050" />
+  <img src="https://img.shields.io/badge/THỰC%20TẠI-GLITCH-9d00ff?style=for-the-badge&logo=protonmail&logoColor=00ffd1" />
+</p>
+
+---
+
+🔥 *"Tương lai đã bị hack. Chúng ta chỉ đang viết nốt dòng lệnh cuối cùng."*
