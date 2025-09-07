@@ -2,18 +2,17 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # chạy 2 lần mỗi ngày
-  workflow_dispatch:         # cho phép chạy tay
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
   push:
     branches:
       - main
-      - master
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v4
 
       - name: Generate Snake
@@ -22,7 +21,7 @@ jobs:
           github_user_name: fbtuan2
           outputs: dist/snake.svg
 
-      - name: Deploy Snake to output branch
+      - name: Deploy to output branch
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
